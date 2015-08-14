@@ -1,0 +1,21 @@
+{
+  "name": "Nightwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightwatch.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "nightwatch": "^0.7.9"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-nightwatch": "^0.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
